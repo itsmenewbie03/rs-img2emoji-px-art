@@ -70,5 +70,5 @@ fn main() {
         }
         println!("{}", line);
     }
-    println!("{:?}", color_map);
+    // println!("{:?}", color_map);
 }
